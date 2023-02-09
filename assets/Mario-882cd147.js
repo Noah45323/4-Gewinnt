@@ -1,0 +1,1 @@
+import{d as o,o as s,c as a,a as t,u as n,F as _}from"./index-e6d3f36f.js";const u=t("h1",{id:"Überschrift"},"Mario",-1),d={__name:"Mario",setup(i){const r=o();return(c,e)=>(s(),a(_,null,[u,t("button",{id:"Unterüberschrift",onClick:e[0]||(e[0]=l=>n(r).push("/Mario/level1"))},"Start")],64))}};export{d as default};
